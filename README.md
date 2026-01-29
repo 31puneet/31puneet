@@ -34,14 +34,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-[![Puneet's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
